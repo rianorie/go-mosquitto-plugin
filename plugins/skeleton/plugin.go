@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/iotopen/go-mosquitto-plugin"
+	"github.com/rianorie/go-mosquitto-plugin"
 )
 
 // Plugin structure
